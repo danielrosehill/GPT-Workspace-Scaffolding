@@ -1,6 +1,6 @@
 # GPT Workspace Scaffolding Repository
 
-![V1 of file structure](gpt-workspace-scaffolding/repoimages/Core_Folders.png)
+![V1 of file structure](repoimages/Core_Folders.png)
 
 ## Purpose Statement
 
