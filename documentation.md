@@ -1,5 +1,29 @@
 # GPT Workspace Folder Structure / Scaffold: Notes
 
+## Screenshots / Folder Structure
+
+Core folders:
+
+![Core Folders](Screenshots/V1/Core_Folders.png)
+
+Inventory of custom GPTs:
+
+![Custom GPT Inventory](Screenshots/V1/customgpt_storage.png)
+
+Basic prompt library:
+
+![Prompt Library](Screenshots/V1/promptlibrary.png)
+
+Prompt outputs:
+
+![Prompt Outputs](Screenshots/V1/promptoutputs.png)
+
+Taxonomies:
+
+![Taxonomies](Screenshots/V1/taxonomies.png)
+
+---
+
 # Root Level Folders
 
 ## Custom GPTs - Core Folder 1
