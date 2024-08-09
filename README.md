@@ -1,6 +1,8 @@
 # GPT Workspace Scaffolding Repository
 
-![V1 of file structure](repoimages/Core_Folders.png)
+![Core Folders](Screenshots/V1/Core_Folders.png)
+
+*More screenshots below*
 
 ## Purpose Statement
 
@@ -23,7 +25,17 @@ But for other use-cases like proof of concept, sharing on Github, etc, this stru
 
 For very cursory documentation explaining why the folders are structured like this, you can see `documentation.md` at the root.
 
-## Use Case Statement
+## Screenshots / Folder Structure
+
+![Core Folders](Screenshots/V1/Core_Folders.png)
+
+![Custom GPT Inventory](Screenshots/V1/customgpt_storage.png)
+
+![Prompt Library](Screenshots/V1/promptlibrary.png)
+
+![Prompt Outputs](Screenshots/V1/promptoutputs.png)
+
+![Taxonomies](Screenshots/V1/taxonomies.png)
 
 ## Author
 
