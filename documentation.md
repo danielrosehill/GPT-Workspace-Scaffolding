@@ -36,6 +36,18 @@ It makes sense (in my opinion) to organise this folder **thematically**.
 
 I have provided subfolders at the first root level for `work` and `personal` for those who wish to use the workspace for both professional and personal use. Of course, this structure could be employed for the other "modules" as well.
 
+### Version Control For Configuration Changes
+
+You will probably want to periodically update and improve your custom GPTs as you figure out what's working (and what's not).
+
+Under `config` you can create folders like `current` and `oldversions`.
+
+And then store old versions under `oldversions.`
+
+To do this, you should create a version control system. This could be noted as a field in the `about.me` document for each GPT.
+
+---
+
 ## Prompt Library - Core Folder 2
 
 This folder is designed to store a prompt library.
@@ -45,6 +57,8 @@ A prompt library is where you store your best prompts.
 It makes sense (in my opinion) to organise this folder **thematically**. 
 
 Hence, I have provided a few demonstration subfolders to group prompts into themes.
+
+---
 
 ## Prompt Workspace - Core Folder 3
 
